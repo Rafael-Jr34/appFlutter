@@ -579,7 +579,7 @@ class WordpressPage extends StatefulWidget {
 // Reemplaza tu clase por esta
 class _WordpressState extends State<WordpressPage> {
   // Default: puedes cambiarlo si quieres otra web (ej: 'https://www.sitepoint.com')
-  final ctrl = TextEditingController(text: 'https://sitepoint.com');
+  final ctrl = TextEditingController(text: 'https://blog.ted.com');
   List? posts;
   String? logo;
 
